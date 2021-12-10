@@ -243,6 +243,7 @@ homeassistant/components/icloud/* @Quentame @nzapponi
 homeassistant/components/ign_sismologia/* @exxamalte
 homeassistant/components/image/* @home-assistant/core
 homeassistant/components/incomfort/* @zxdavb
+homeassistant/components/inels/* @jhoralek
 homeassistant/components/influxdb/* @fabaff @mdegat01
 homeassistant/components/input_boolean/* @home-assistant/core
 homeassistant/components/input_datetime/* @home-assistant/core

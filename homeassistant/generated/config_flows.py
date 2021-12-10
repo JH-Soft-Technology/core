@@ -137,6 +137,7 @@ FLOWS = [
     "iaqualink",
     "icloud",
     "ifttt",
+    "inels",
     "insteon",
     "ios",
     "iotawatt",

@@ -1,0 +1,17 @@
+{
+  "domain": "inels",
+  "name": "Inels ElkoEP a.s.",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/inels",
+  "requirements": [
+    "pyinels==0.6.10"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@jhoralek"
+  ],
+  "iot_class": "local_polling"
+}

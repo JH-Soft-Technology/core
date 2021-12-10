@@ -38,5 +38,12 @@
       "!include_dir_merge_list scalar",
       "!include_dir_merge_named scalar"
     ]
-  }
+  },
+  "appPort": [
+		"8001:8001"
+	],
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [
+		8001
+	],
 }
